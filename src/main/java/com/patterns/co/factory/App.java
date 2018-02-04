@@ -1,10 +1,7 @@
-package com.patterns.co.PatternsPractices;
-
-import com.patterns.co.factory.Shape;
-import com.patterns.co.factory.ShapeFactory;
+package com.patterns.co.factory;
 
 /**
- * Hello world!
+ * Got from https://www.tutorialspoint.com/design_pattern/
  *
  */
 public class App {
